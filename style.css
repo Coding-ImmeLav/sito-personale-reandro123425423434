@@ -1,6 +1,6 @@
 .hero{
     display: flex;
-    justify-content: center;
+    jusstify-content: center;
     align-items: center;
     flex-direction: column;
     height: 90vh;
@@ -8,4 +8,20 @@
 .footer{
 height: 13vh;
 background-color: cornflowerblue;
+padding-bottom: 1%;
+}
+.mezzo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contatti p{
+    display: flex;
+    align-items: center;
+}
+.passioni{
+    height: 50vh;
+    background-color: lightskyblue;
+
+
 }
