@@ -1,6 +1,6 @@
 .hero{
     display: flex;
-    jusstify-content: center;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
     height: 90vh;
@@ -24,4 +24,15 @@ padding-bottom: 1%;
     background-color: lightskyblue;
 
 
+}
+.foglio{
+    padding: 3%;
+    margin-top:4%;
+    margin-bottom: 4%;
+    border: 1px solid black;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 999;
 }
